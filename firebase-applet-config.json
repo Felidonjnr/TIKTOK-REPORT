@@ -1,0 +1,12 @@
+{
+  "projectId": "minos-dashboard",
+  "appId": "1:847823517233:web:57a9338db57681fc870710",
+  "apiKey": "AIzaSyBahFRyVWBjc0yHIQlaKCFvYwcUZjIpuGA",
+  "authDomain": "minos-dashboard.firebaseapp.com",
+  "firestoreDatabaseId": "ai-studio-2f8d59bd-30b3-443e-948f-16a9f4fd8f9e",
+  "storageBucket": "minos-dashboard.firebasestorage.app",
+  "messagingSenderId": "847823517233",
+  "measurementId": "",
+  "oAuthClientId": "847823517233-c7qi9q41berfh29ek58o5bpt9oi87rof.apps.googleusercontent.com",
+  "recaptchaSiteKey": ""
+}
